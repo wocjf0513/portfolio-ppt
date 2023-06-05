@@ -1,3 +1,5 @@
 # :blush: Preview PortFolio
 
-![심재철PT](https://user-images.githubusercontent.com/59725406/232401665-130d9c4a-46cc-4260-b373-6dbe36128b1b.gif)
+![심재철PT](https://github.com/wocjf0513/portFolio/assets/59725406/d13b6d40-cc7d-441f-8ffc-f7a2a88c29ad)
+
+
